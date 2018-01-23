@@ -4,7 +4,7 @@
   "description": "Publish APKs to Google Play Store",
   "main": "lib/index.js",
   "bin": {
-    "playup": "cli.js"
+    "playup-crnt": "cli.js"
   },
   "scripts": {
     "prepublish": "npm run build && npm prune",
