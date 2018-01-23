@@ -16,7 +16,7 @@ This package offers a streamlined way to publish packages in the Google Play Sto
 ## Install
 
 ```
-npm install -g playup
+npm install -g https://github.com/CarenetLongevity/playup/tarball/master
 ```
 
 ## Usage
